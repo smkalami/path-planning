@@ -1,4 +1,4 @@
-# Mobile Robot Path Planning and Obstacle Avoidance Framework
+# Path Planning and Obstacle Avoidance Using PSO in Python
 
 This is an open-source project developed in Python for Mobile Robot Path Planning and Obstacle Avoidance. The package offers a framework for solving the path planning problem using Particle Swarm Optimization (PSO). The user can define the environment and obstacles and then use PSO to obtain the optimal path. The resulting path is a spline smooth curve, which is then evaluated using a penalty function. If the path curve violates some constraints, it will be penalized. These constraints are:
 
