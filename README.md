@@ -98,9 +98,7 @@ The `bestsol` variable contains the best solution found by the algorithm. The `p
 
 The following animation shows how PSO searches for the optimal path and how the solution evolves while the optimization algorithms runs.
 
-<p style="text-align: center;">
-  <img src="images/animation.gif" alt="Path Planning using PSO in Python">
-</p>
+<img src="images/animation.gif" alt="Path Planning using PSO in Python" style="display: block; margin: 0 auto;">
 
 ## How to Cite
 
